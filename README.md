@@ -83,7 +83,7 @@ We're going to be using 2 services:
 In our case, we'd be fine to use a local database like PostgreSQL. However, it's good practice to work with cloud tools like this.
 
 
-# Setup
+## AWS Account Setup
 
 1. Setup a personal [AWS account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start).
 
