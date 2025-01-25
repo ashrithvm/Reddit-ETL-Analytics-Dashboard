@@ -6,8 +6,6 @@ Output is a Google Data Studio report, providing insight into the Data Engineeri
 
 ## Architecture
 
-<img src="images/workflow.png" width=70% height=70%>
-
 1. Extract data using Reddit API
 1. Load into AWS S3
 1. Copy into AWS Redshift
@@ -15,11 +13,6 @@ Output is a Google Data Studio report, providing insight into the Data Engineeri
 1. Create Google Data StudioDashboard 
 1. Orchestrate with Airflow in Docker
 1. Create AWS resources with Terraform
-
-## Output
-
-<img src="images/GDS-Dashboard.png" width=70% height=70%>
-
 
 ## Setup
 
