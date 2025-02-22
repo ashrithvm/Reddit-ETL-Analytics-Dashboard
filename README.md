@@ -475,5 +475,5 @@ To terminate your resources, follow the below steps:
 
 This project was heavily influenced by https://github.com/AnMol12499/Reddit-Analytics-Integration-Platform/tree/main.
 
-I cloned the core infrastructure and improved upon it. It was amazing experience to work with a diverse and industry standard tech stack. The work is well documented and it almost felt like I was doing a guided project in the first part. I'd recommend going through the original repo and starring it.
+I cloned the core infrastructure and improved upon it. It was amazing experience to work with a diverse and industry standard tech stack. The work is well documented and it almost felt like I was doing a guided project. I'd recommend going through the original repo and starring it.
 
