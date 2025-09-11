@@ -1,18 +1,18 @@
 # Reddit ETL Pipeline
 
-A data pipeline to extract Reddit data from 'r/dataengineering'.
-
-Output is a Google Data Studio report, providing insight into the Data Engineering official subreddit.
+Built a fully automated ETL pipeline which ingested r/DataEngineering posts/comments to AWS S3/Redshift, transformed with dbt, and visualized trends in Google Data Studio.
 
 ## Architecture
 
 1. Extract data using Reddit API
-1. Load into AWS S3
-1. Copy into AWS Redshift
-1. Transform using dbt
-1. Create Google Data StudioDashboard 
-1. Orchestrate with Airflow in Docker
-1. Create AWS resources with Terraform
+2. Load into AWS S3
+3. Copy into AWS Redshift
+4. Transform using dbt
+5. Create Google Data StudioDashboard 
+6. Orchestrate with Airflow in Docker
+7. Create AWS resources with Terraform
+
+ ![architectore](images/architecture.png)
 
 ## Setup
 
